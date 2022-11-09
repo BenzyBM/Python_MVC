@@ -1,0 +1,21 @@
+html{
+    background:url(./bts.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+body {
+    text-align: center;
+}
+
+input{
+    background-color:red;
+    width: 450px;
+    height: 150px;
+    border: 10px solid rgb(208, 30, 30);
+    border-radius: 12px;
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
